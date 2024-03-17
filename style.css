@@ -1,0 +1,67 @@
+height: 100%;
+      width: 100%;
+    }
+    body{
+      line-height: 0;
+      margin: 0;
+      font-family: BIZ UDPGothic;
+    }
+    button.main-menu{
+      border: 0;
+      cursor: pointer;
+      font-size: 15px;
+      background-color: #e6e6e6;
+      padding: 10px;
+      height: 45px;
+    }
+    .main-menu:hover{
+      background-color: #d9d9d9;
+    }
+    header{
+      background-color: #e6e6e6;
+      height: 100%;
+    }
+    input.search{
+      background-color: #cccccc;
+      border: 0;
+      border-radius: 3px;
+      color: black;
+      width: 20%;
+      height: 20px;
+    }
+    input.search:focus{
+      background-color: #cccccc;
+      border: 0;
+      outline: none;
+      border-radius: 3px;  
+    }
+    div.search-div{
+      padding: 10px;
+      font-size: 15px;
+      cursor: default;
+    }
+    div.search-div:hover{
+      background-color: #d9d9d9;
+    }
+    .apps:hover{
+      background-color: #cccccc;
+    }
+    .apps{
+      width: 220px;
+      cursor: pointer;
+      border-radius: 10px;
+      background-color: #e6e6e6;
+      border: 0;
+      width: 200px;
+      padding: 10px 5px 10px 5px;
+    }
+    .navp{
+      margin: 0;
+      height: 100%;
+    }
+    img.apps-image{
+      height: 150px;
+      width: 180px;
+      border-radius: 5px;
+      text-align: center;
+    }
